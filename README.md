@@ -2,4 +2,4 @@
 Press-Schechter theory and spherical collapse in cosmology (in French) 
 
 
-'![](https://imgur.com/WreaT44)'
+'![](https://imgur.com/gallery/o5iP12z)'
