@@ -5,7 +5,7 @@
 ![](https://i.imgur.com/M8xw79e.jpeg)
 
 
-Et oici une simulation qui illustre plutôt bien l'image précédente, concernant la formation hierarchique des grandes structures en fonction de la cosmologie. 
+### Et voici une simulation qui illustre plutôt bien l'image précédente, concernant la formation hierarchique des grandes structures en fonction de la cosmologie. 
 (tirée de Borgani et al, 2001)
 
 
