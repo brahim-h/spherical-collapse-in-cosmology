@@ -2,7 +2,7 @@
 ## Press-Schechter theory and spherical collapse in cosmology (in French) 
 
 ### Voici un plot tiré de mon code : 
-![](https://i.imgur.com/M8xw79e.jpeg)
+![](https://i.imgur.com/WKp2qAy.jpeg)
 
 
 ### Et voici une simulation qui illustre plutôt bien l'image précédente, concernant la formation hierarchique des grandes structures en fonction de la cosmologie. 
