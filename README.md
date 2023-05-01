@@ -13,7 +13,7 @@ Et le résultat du plot de la fonction de masse de P.S, où les traits verticaux
 ![](https://i.imgur.com/uZ3p893.jpeg)
 
 
-Ainsi, pour la fonction de masse en Z = 0, on montre que le nombre d'Halo formés par Mpc et par unité de volume comobile pour une masse M = $\M_{*}$ qui correspond à la Masse caractéristique définissant la coupure exponentielle (plus d'information dans le code) est $3.5.10^{-4}$ amas / $(Mpc/h)^{3}$. 
+Ainsi, pour la fonction de masse en Z = 0, on montre que le nombre d'Halo formés par Mpc et par unité de volume comobile pour une masse M = $M_{*}$ qui correspond à la Masse caractéristique définissant la coupure exponentielle (plus d'information dans le code) est $3.5.10^{-4}$ amas / $(Mpc/h)^{3}$. 
 
 Cette valeur de la fonction de masse est, en ordre de grandeur, compatible avec des estimations plus précises (issues de simulations numériques ou de prédictions plus précises) qui peuvent, elles, être comparées aux observations pour contraindre la cosmologie. On note que la fonction de masse dépend principalement de $\sigma_{8}$ et de $\Omega_{m}$. En ce sens, la fonction de masse constitue une sonde cosmologique. 
 
