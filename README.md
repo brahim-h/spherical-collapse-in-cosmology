@@ -6,7 +6,7 @@
 ![](https://i.imgur.com/exX01gF.jpeg)
 
 Voici une simulation de l'évolution du rayon d'une sphère de matière formée dans l'Univers primordial (comparaison modèle non-linéaire / modèle linéaire) : 
-![](https://i.imgur.com/RrVFV0H.jpeg)
+![](https://i.imgur.com/BQnJnCI.jpeg)
 
 Et le résultat du plot de la fonction de masse de P.S, où les traits verticaux correspondent à la position de la coupure exponentielle. 
 ![](https://i.imgur.com/uZ3p893.jpeg)
